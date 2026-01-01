@@ -22,6 +22,12 @@ This tool eliminates manual data entry by automating the parsing of complex PDF 
    `pip install -r requirements.txt`
 3. Ensure **Tesseract OCR** is installed on your local system.
 
+### 📊 Transformation Results
+
+| Original PDF (Input) | Structured Excel (Output) |
+| :--- | :--- |
+| ![PDF Sample](assets/PDF_muestra.png) | ![Excel Sample](assets/Muestra_ETL_PDF_Excel.png) |
+
 ---
 **Note:** This is a portfolio version. For custom enterprise automation or private source code access, please contact me via:
 [Fiverr Profile](https://es.fiverr.com/s/Zmp8yok) | [Upwork Profile](https://www.upwork.com/freelancers/~01ede6c832b5171562)
