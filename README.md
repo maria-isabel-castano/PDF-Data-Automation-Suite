@@ -24,4 +24,4 @@ This tool eliminates manual data entry by automating the parsing of complex PDF 
 
 ---
 **Note:** This is a portfolio version. For custom enterprise automation or private source code access, please contact me via:
-[Fiverr Profile](https://es.fiverr.com/s/Zmp8yok)) | [Upwork Profile](https://www.upwork.com/freelancers/~01ede6c832b5171562)
+[Fiverr Profile](https://es.fiverr.com/s/Zmp8yok) | [Upwork Profile](https://www.upwork.com/freelancers/~01ede6c832b5171562)
